@@ -18,7 +18,9 @@ Navigate through the different sections of the website using the navigation menu
 
 - HTML
 - CSS
+  
+## Credits
+This project was created by [Ankush Raj Mahe Yam (ARMY)](https://github.com/AnkushRajMaheYam).
 
 ## License
-
 All rights reserved by ARMY. Unauthorized use or reproduction of this website is prohibited without permission.
