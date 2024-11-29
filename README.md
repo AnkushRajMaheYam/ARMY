@@ -5,6 +5,7 @@ Welcome to the ARMY website! This simple website is created using HTML and CSS a
 ## Description
 
 This website showcases information about Ankush Raj Mahe Yam (ARMY) and serves as a portfolio or personal webpage.
+![Preview of Website](preview-of-army.png)
 
 ## Installation
 
@@ -18,7 +19,20 @@ Navigate through the different sections of the website using the navigation menu
 
 - HTML
 - CSS
-  
+
+--- 
+## About Me  
+
+Hi, I’m **Ankush Raj Mahe Yam (ARMY)**, an aspiring software developer. I’m passionate about coding and enjoy sharing my learning journey to help others grow.  
+
+🌟 Connect with me:  
+- **Google Search:** [Ankush Raj Mahe Yam](https://www.google.com/search?q=ankush+raj+mahe+yam)  
+- **LinkedIn:** [Ankush Raj Mahe Yam](https://linkedin.com/in/ankushrajmaheyam)  
+- **GitHub:** [Ankush Raj Mahe Yam](https://github.com/AnkushRajMaheYam)  
+- **Instagram:** [@AnkushRajaMaheYam](https://instagram.com/AnkushRajaMaheYam)  
+- **Facebook:** [Ankush Raj Mahe Yam](https://facebook.com/AnkushRajMaheYam)  
+
+---
 ## Credits
 This project was created by [Ankush Raj Mahe Yam (ARMY)](https://github.com/AnkushRajMaheYam).
 
